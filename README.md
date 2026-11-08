@@ -1,4 +1,13 @@
 # kirieshkafetch
+<h2 align="center">
+   Внимание! Этот проект в отличии от Linux версии будет обновляться очень медленно.
+
+  
+   Linux версия: https://github.com/kirieshka228-govno/kirieshkafetch-linux
+</h2>
+
+
+
 Пародия на fastfetch но без кастомизации
 
 Открывается почти что моментально и отображает важную информацию о системе
