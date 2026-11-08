@@ -1,4 +1,4 @@
-# kirieshkafetch
+# kirieshkafetch (Windows)
 <h2 align="center">
    Внимание! Этот проект в отличии от Linux версии будет обновляться очень медленно.
 
